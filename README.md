@@ -2,9 +2,7 @@
 
 
 
-User Credentials:
-Email: sasikalyan97@gmail.com
-Password: user
+
 
 
 
